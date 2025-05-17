@@ -5,23 +5,15 @@
 
 🎓 **Senior Research Associate** with a strong foundation in **market research**, currently transitioning into the dynamic world of **data analytics**.
 
-🔍 Over the past few years, I’ve developed expertise in:
-- Designing and executing research strategies
-- Analyzing consumer behavior and market trends
-- Delivering actionable insights to drive strategic decisions
+🔍 With years of experience in designing research strategies, analyzing consumer behavior, and delivering insights that drive decisions.
 
-📊 Now, I’m channeling that analytical mindset into:
-- **Data Analysis** using Python, SQL, and Excel
-- **Data Visualization** with tools like Power BI and Tableau
+📊 I’m now focused on data analysis using Python, SQL, and Excel, along with visualization tools like Power BI and Tableau.
 
-💡 I believe in the power of data to uncover opportunities, optimize performance, and tell compelling stories.
+💡 I’m passionate about using data to uncover opportunities, optimize performance, and tell compelling stories.
 
-📚 Currently expanding my skills in:
-- Data modeling & query optimization
-- Real-world business problem solving using data
-- Automating workflows and building dashboards
+📚 Currently growing skills in data modeling, query optimization, real-world problem solving, automation, and dashboard building.
 
-🚀 Looking forward to collaborating on projects that combine research and analytics to generate impact.
+🚀 Excited to collaborate on projects that blend research and analytics for meaningful impact.
 - 📫 How to reach me **payalrajgire14@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/payalumaterajgire?tab=repositories**
 
